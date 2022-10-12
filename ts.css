@@ -1,0 +1,168 @@
+
+
+      body{
+        background-color: powderblue;
+      }
+                                    #color1{
+                                      color:aquamarine ;
+                                    }
+                                    #p{
+                                      font-size: 35px ;
+                                      text-align: center;
+                                    }
+                                    #h1d{
+                                      text-align:center ;
+                                    }    
+                                    .img1 {
+                                      width: 200px; height: 200px;
+                                     
+
+                                    }
+                                    .topleft  {
+                                      position:fixed;
+                                     
+                                      left: 1900px;
+                                      top: 100px;
+                                    }
+                                    .topleft1  {
+                                      position: absolute;
+                                      top: 50px;
+                                      left: 1900px;
+                                     
+                                    
+                                    }
+                                    
+                                    .ul1{
+                                      font-size:20px ;                              
+                                      }
+         label {
+         font-size:23px ;
+         }
+          
+             h4{
+             font-family: fantasy;
+             font-size:24px ;
+             }
+               input[type=text], select {
+               width: 100;
+               padding: 2px 20px;
+               margin: 8px 0;
+               display: inline-block;
+               border: 3px solid rgb(112, 109, 109);
+               border-radius: 40px;
+               box-sizing: border-box;
+               font-size: 18px;
+               }
+                 input[type=password], select {
+                 width: 100;
+                 padding: 2px 16px;
+                 margin: 8px 0;
+                 display: inline-block;
+                 border: 3px solid rgb(112, 109, 109);
+                 border-radius: 40px;
+                 box-sizing: border-box;
+                 font-size: 18px;
+                 }
+                   div {
+                   border: 1px solid black;
+                   background-color:azure;
+                   padding-top: 50px;
+                   padding-right: 30px;
+                   padding-bottom: 50px;
+                   padding-left: 80px;
+                   }    
+                   button{
+                    width: 100;
+                 padding: 6px 16px;
+                 margin: 5px 0;
+                 display: inline-block;
+                 border: 1px solid rgb(27, 7, 7);
+                 border-radius: 84px;
+                 box-sizing: border-box;
+                 background-color:beige;
+                   }
+                  li{
+                     font-family: Arial, Helvetica, sans-serif;
+
+                  }
+                  a{
+                    color: black;
+                    font-size: 20px;
+                  }
+                  textarea {
+                    width: 150px;
+                    height: 150px;
+                    padding: 12px 20px;
+                    box-sizing: border-box;
+                    border: 2px solid;
+                    border-radius: 10px;
+                    font-size: 16px;
+                      }
+                      ul {
+                        list-style-type: none;
+                        margin: 0;
+                        padding: 0;
+                        overflow: hidden;
+                        background-color: #334;   
+                      }
+                     li {
+                        float: left;
+                      }
+                      .lli a, .dropbtn {
+                        display: inline-block;
+                        
+                        color: white;
+                        text-align: center;
+                        padding: 14px 16px;
+                        text-decoration: none;
+                      }
+                      .li a:hover, .dropdown:hover .dropbtn {
+                        background-color:red;
+                      }
+                      li.dropdown {
+                        display: inline-block;
+                        
+                      }
+                      input[type=date], select {
+                        width: 100;
+                        padding: 2px 20px;
+                        margin: 8px 0;
+                        display: inline-block;
+                        border: 3px solid rgb(112, 109, 109);
+                        border-radius: 40px;
+                        box-sizing: border-box;
+                        font-size: 18px;
+                        }
+                        input[type=button], select {
+                          width: 100;
+                          padding: 2px 20px;
+                          margin: 8px 0;
+                          display: inline-block;
+                          border: 3px solid rgb(112, 109, 109);
+                          border-radius: 40px;
+                          box-sizing: border-box;
+                          font-size: 18px;
+                          }
+                          table {
+                            border-collapse: collapse;
+                            width: 100%;
+                          }
+                          
+                          th, td {
+                            text-align: left;
+                            padding: 10px;
+                            font-size: 25px;
+                          }
+                          
+                          tr:nth-child(odd) {
+                            background-color:steelblue;
+                            font-size: 25px;
+        
+                          }
+                          th{
+                                   background-color:  #228;
+                                   color: white;
+                                   
+                          }
+                  
+
